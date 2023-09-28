@@ -1,3 +1,6 @@
+##Author 
+Arsalan Khawaja is currently a joint PhD Student at NTNU, Norway, and the University of Burgundy, France. His past experience includes intern researcher at the Endoscopy and Computer Vision (EnCoV) Research Group at Clermont-Ferrand, France, and as a Research Assistant at the Institute of Space Technology, Islamabad. His area of interest is Interactive Machine Learning, Image registration, Reflectance Transformation Imaging, and Control theory. Currently, he is working on developing Optimization Algorithms for Reflectance Transformation Imaging.
+
 # Understanding-Fourier-Space
 Imagine you have a radio with a tuning knob. As you turn the knob, you pick up different radio stations. Each station is playing its own song at its own unique frequency (or "station"). The space where you listen to these songs, one by one, as you turn the knob, is like the "regular space" we live in.
 

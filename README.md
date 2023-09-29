@@ -1,4 +1,4 @@
-##Author 
+## Author 
 Arsalan Khawaja is currently a joint PhD Student at NTNU, Norway, and the University of Burgundy, France. His past experience includes intern researcher at the Endoscopy and Computer Vision (EnCoV) Research Group at Clermont-Ferrand, France, and as a Research Assistant at the Institute of Space Technology, Islamabad. His area of interest is Interactive Machine Learning, Image registration, Reflectance Transformation Imaging, and Control theory. Currently, he is working on developing Optimization Algorithms for Reflectance Transformation Imaging.
 
 # Understanding-Fourier-Space
